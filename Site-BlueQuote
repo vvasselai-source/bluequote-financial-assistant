@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BlueQuote | Inteligência Financeira</title>
+<meta name="description" content="BlueQuote é uma solução digital de organização financeira, automação e geração de alertas baseada em orçamento e realizado.">
+<style>
+body {
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  background:#0f172a;
+  color:#e2e8f0;
+}
+.container {
+  max-width:900px;
+  margin:0 auto;
+  padding:60px 20px;
+}
+h1 {
+  font-size:36px;
+  margin-bottom:10px;
+}
+p {
+  line-height:1.6;
+}
+.card {
+  background:#1e293b;
+  padding:20px;
+  border-radius:12px;
+  margin-top:20px;
+}
+footer {
+  margin-top:50px;
+  padding-top:30px;
+  border-top:1px solid #334155;
+  font-size:14px;
+  color:#94a3b8;
+}
+a {
+  color:#60a5fa;
+  text-decoration:none;
+}
+a:hover {
+  text-decoration:underline;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+
+<h1>BlueQuote</h1>
+<p><strong>Previsibilidade financeira com clareza e controle.</strong></p>
+
+<p>
+A BlueQuote é uma solução digital voltada à organização financeira,
+classificação de receitas e despesas, geração de alertas orçamentários
+e automações integradas a ferramentas como WhatsApp.
+</p>
+
+<div class="card">
+<h2>O que fazemos</h2>
+<p>
+• Organização e categorização financeira<br>
+• Alertas quando o realizado se aproxima do previsto<br>
+• Integrações com WhatsApp e automações<br>
+• Painéis de resumo mensal
+</p>
+</div>
+
+<div class="card">
+<h2>Contato</h2>
+<p>
+E-mail: victor@vmssolucoes.com.br
+</p>
+</div>
+
+<footer>
+<p><strong>BlueQuote</strong> – Todos os direitos reservados.</p>
+
+<p>
+VMS SOLUCOES EMPRESARIAIS LTDA - ME – CNPJ: 60.944.292/0001-42<br>
+Rua Felipe Neves, 410 – Estreito<br>
+Florianópolis – SC – CEP 88070-760
+</p>
+
+<p>
+<a href="/privacy.html">Política de Privacidade</a> |
+<a href="/terms.html">Termos de Uso</a>
+</p>
+</footer>
+
+</div>
+</body>
+</html>
